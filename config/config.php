@@ -77,7 +77,7 @@
     define('LOG_LOGIN_ERRORS', true);                 // guardar errores de login en fichero de log
     define('LOGIN_ERRORS_FILE', '../logs/login.log'); // nombre del fichero
     
-    define('DB_LOGIN_ERRORS', true);                  // guardar errores de login en BDD
+    define('DB_LOGIN_ERRORS', false);                  // guardar errores de login en BDD
 
     
 /* -------------------------------------------------------------
